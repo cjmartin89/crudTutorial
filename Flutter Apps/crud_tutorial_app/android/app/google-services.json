@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437362735764",
+    "project_id": "crudtutorial-d56a9",
+    "storage_bucket": "crudtutorial-d56a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437362735764:android:b4f4c574a5627bfc009281",
+        "android_client_info": {
+          "package_name": "com.martint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1yOz2MXIMTzY7ffrMYF470lYo2Na_V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437362735764:android:58812ab56e57d09d009281",
+        "android_client_info": {
+          "package_name": "com.martintechsolution.crudTutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1yOz2MXIMTzY7ffrMYF470lYo2Na_V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
